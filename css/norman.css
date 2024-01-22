@@ -49,5 +49,12 @@ ul, .work, .author{
     padding-bottom: 3%;
 }
 a{
-    
+    color: rgb(15, 141, 141);
+}
+a:hover{
+    color: rgba(5, 94, 94, 0.5);
+    transition: all .3s;
+}
+a:visited{
+    color: #333;
 }
